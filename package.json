@@ -1,0 +1,9 @@
+{
+  "name": "activity-dashboard",
+  "version": "1.0.0",
+  "description": "Secure Employee Dashboard",
+  "type": "module",
+  "engines": {
+    "node": ">=18.x"
+  }
+}
