@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://www.reddit.com/r/googlecloud/comments/1f2ooe9/firebase_app_hosting_vs_vercel",
+    "name": "Firebase App Hosting vs Vercel : r/googlecloud - Reddit",
+    "snippet": "We just got a new dev who claims Firebase is completely unsuitable for hosting frontend React applications and that the only solution is Vercel for our ...",
+    "host_name": "www.reddit.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://vercel.com/templates/firebase",
+    "name": "Firebase Templates - Vercel",
+    "snippet": "Firebase examples and use cases. Discover Firebase examples and templates for different use cases. Filter Templates. Clear. Use Case.",
+    "host_name": "vercel.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=UdkDTQFZDvs",
+    "name": "How to Deploy Your React Web App with Firebase on Vercel",
+    "snippet": "React #firebase #deployment #PaaS #development #webdevelopment #frontend #coding #vercel Step by step guide of how to deploy your web app in ...",
+    "host_name": "www.youtube.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://betterprogramming.pub/firebase-vs-vercel-aka-zeit-now-2020-7f5ab18d865f",
+    "name": "Firebase vs. Vercel (aka Zeit) - Better Programming",
+    "snippet": "In this article, I'll compare Firebase and Vercel, based on my recent experiences using them to host Next.js projects.",
+    "host_name": "betterprogramming.pub",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://stackoverflow.com/questions/73004971/vercel-deployment-and-firebase-authentication-unable-to-customise-redirect-url",
+    "name": "Vercel Deployment and Firebase Authentication - Stack Overflow",
+    "snippet": "Firebase console> authentication > firebase console click the settings tab settings then select Authorised domains and add your ustom domain.",
+    "host_name": "stackoverflow.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  }
+]
